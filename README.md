@@ -40,5 +40,7 @@ If any required tools are missing, the script will prompt you to install them au
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/WebRecon.git
-cd WebRecon
+https://github.com/CYBERTRON07/web-recon-tool.git
+cd web-recon-tool
+./web-recon-tool
+
